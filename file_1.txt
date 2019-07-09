@@ -1,0 +1,3 @@
+Here we are
+In U of D lab
+learning some Git stuff
